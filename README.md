@@ -10,7 +10,7 @@ Simulate IOS multi column picker by ionic2 picker.
 
 **For ionic 2.x, please use ion-multi-picker 1.x**
 
-Github: [https://github.com/raychenfj/ion-multi-picker](https://github.com/raychenfj/ion-multi-picker)
+Github: [https://github.com/nxw1990/ion-multi-picker](https://github.com/nxw1990/ion-multi-picker.git)
 
 NPM: [https://www.npmjs.com/package/ion-multi-picker](https://www.npmjs.com/package/ion-multi-picker)
 
